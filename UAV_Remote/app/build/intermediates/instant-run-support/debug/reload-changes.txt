@@ -1,0 +1,2 @@
+CHANGED,C:\Users\john.beuning\Desktop\UAV_Remote\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,C:\Users\john.beuning\Desktop\UAV_Remote\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\edu\und\beuning\john\uav_remote\control_screen$override.class

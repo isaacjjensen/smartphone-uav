@@ -1,0 +1,7 @@
+#Sat Oct 22 13:32:49 CDT 2016
+base.0=C\:\\Users\\HH120F\\Desktop\\GyroscopeExplorer-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ad1e8d38b6b88084b09527d42c6e2587a1318ffe
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\HH120F\\Desktop\\GyroscopeExplorer-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_5570d437e9716b5df81451aa373c7b3e586dc60b\\classes.dex
+base.1=C\:\\Users\\HH120F\\Desktop\\GyroscopeExplorer-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_5570d437e9716b5df81451aa373c7b3e586dc60b
+file.0=C\:\\Users\\HH120F\\Desktop\\GyroscopeExplorer-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ad1e8d38b6b88084b09527d42c6e2587a1318ffe\\classes.dex

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\HH120F\Desktop\GyroscopeExplorer-master\app\libs\commons-math3-3.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="13af68e9a11576953f5c4b09436f8207be9d3a27">
+        <dex dex="C:\Users\HH120F\Desktop\GyroscopeExplorer-master\app\build\intermediates\transforms\dex\debug\folders\1000\2\commons-math3-3.5_ecfa84026b4c88cbbe8794f2021fcb96f632db94\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HH120F\Desktop\GyroscopeExplorer-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\HH120F\Desktop\GyroscopeExplorer-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.1_5876e018cc5767693807d8034a1c7b4f1ab44f41\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HH120F\Desktop\GyroscopeExplorer-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\HH120F\Desktop\GyroscopeExplorer-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.2.1_51e5e81a0eab0e4f0b00bbcdb0de8c7a044b2a71\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HH120F\Desktop\GyroscopeExplorer-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="78c52e77260420c33c20becb37c1b566b3eb5b74">
+        <dex dex="C:\Users\HH120F\Desktop\GyroscopeExplorer-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_5570d437e9716b5df81451aa373c7b3e586dc60b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HH120F\Desktop\GyroscopeExplorer-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4be3ca23e0599d3756c5c042a64fd5038627912f">
+        <dex dex="C:\Users\HH120F\Desktop\GyroscopeExplorer-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ad1e8d38b6b88084b09527d42c6e2587a1318ffe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HH120F\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\HH120F\Desktop\GyroscopeExplorer-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.1_b166d9e2e6ca619c32c53a9bee20612133c02528\classes.dex" />
+    </item>
+
+</items>
